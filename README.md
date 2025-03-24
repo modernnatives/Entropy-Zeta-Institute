@@ -32,4 +32,4 @@ This repository supports the research paper:
 **Entropy-Zeta Harmonics: A Foundational Mechanism in Abiogenesis and DNA Quantum Processing**  
 [Download the PDF](./paper/entropy_zeta_harmonics.pdf)
 
-[![DOI]((https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
