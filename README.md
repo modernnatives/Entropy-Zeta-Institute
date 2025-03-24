@@ -24,10 +24,11 @@ To run simulations:
 python entropy_zeta_simulation.py
 python eeg_gamma_coherence.py
 python bayesian_convergence_plot.py
-
 ## Paper
 
 This repository supports the research paper:
 
 **Entropy-Zeta Harmonics: A Foundational Mechanism in Abiogenesis and DNA Quantum Processing**  
 [Download the PDF](./paper/entropy_zeta_harmonics.pdf)
+
+[Download the PDF](./Entropy-Zeta-Harmonics.pdf)
