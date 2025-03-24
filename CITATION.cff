@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below:"
 title: "Entropy-Zeta Harmonics: A Foundational Mechanism in Abiogenesis and DNA Quantum Processing"
 authors:
-  - family-names: [Your Last Name]
-    given-names: [Your First Name]
+  - family-names: [Russell]
+    given-names: [Ryan]
 date-released: 2025-03-22
 version: "1.0.0"
 doi: "10.5281/zenodo.XXXXXXX"  # optional if published via Zenodo
-url: "https://github.com/yourusername/Entropy-Zeta-Harmonics"
+url: "https://github.com/modernnatives/Entropy-Zeta-Harmonics"
 license: MIT
