@@ -21,9 +21,9 @@ This Python package contains simulation scripts supporting the Entropy-Zeta Harm
 To run simulations:
 
 ```bash
-python entropy_zeta_simulation.py
-python eeg_gamma_coherence.py
-python bayesian_convergence_plot.py
+python entropy_zeta_simulation.py  
+python eeg_gamma_coherence.py  
+python bayesian_convergence_plot.py  
 
 ## Paper
 
@@ -32,4 +32,4 @@ This repository supports the research paper:
 **Entropy-Zeta Harmonics: A Foundational Mechanism in Abiogenesis and DNA Quantum Processing**  
 [Download the PDF](./paper/entropy_zeta_harmonics.pdf)
 
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.9876543.svg)](https://doi.org/10.5281/zenodo.9876543)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.9876543.svg)](https://doi.org/10.5281/zenodo.9876543)
