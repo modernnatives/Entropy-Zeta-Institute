@@ -43,7 +43,6 @@ authors:
     orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional but recommended
 date-released: 2025-03-25
 version: "1.0.0"
-doi: "10.5281/zenodo.1234567"  # Replace with your actual Zenodo DOI
+doi: "10.5281/zenodo."  # Replace with your actual Zenodo DOI
 repository-code: "https://github.com/yourusername/entropy-zeta-harmonics"
-url: "https://doi.org/10.5281/zenodo.1234567"  # Again, update to your real DOI
-license: "MIT"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
