@@ -1,4 +1,4 @@
-# Entropy-Zeta Harmonics: Reproducibility Package
+I'm# Entropy-Zeta Harmonics: Reproducibility Package
 
 This Python package contains simulation scripts supporting the Entropy-Zeta Harmonics research framework.
 
@@ -24,3 +24,10 @@ To run simulations:
 python entropy_zeta_simulation.py
 python eeg_gamma_coherence.py
 python bayesian_convergence_plot.py
+
+## Paper
+
+This repository supports the research paper:
+
+**Entropy-Zeta Harmonics: A Foundational Mechanism in Abiogenesis and DNA Quantum Processing**  
+[Download the PDF](./paper/entropy_zeta_harmonics.pdf)
