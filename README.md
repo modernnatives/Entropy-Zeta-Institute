@@ -1,2 +1,26 @@
-# Entropy-Zeta-Institute
-These scripts simulate the information-coherent structures and dynamic entropy flows described in the Entropy-Zeta Harmonics model — specifically modeling bioelectric coherence, EEG harmonics, and convergence of entropy-optimized systems using statistical methods.
+# Entropy-Zeta Harmonics: Reproducibility Package
+
+This Python package contains simulation scripts supporting the Entropy-Zeta Harmonics research framework.
+
+## Contents
+
+- `entropy_zeta_simulation.py`: Simulates entropy-weighted harmonic signals using the Riemann zeta function.
+- `eeg_gamma_coherence.py`: Simulates EEG-like gamma coherence using zeta-harmonic models.
+- `bayesian_convergence_plot.py`: MCMC simulation of entropy field convergence.
+- `results/`: Saved output plots.
+
+## Requirements
+
+- Python 3.8+
+- NumPy
+- SciPy
+- Matplotlib
+
+## Usage
+
+To run simulations:
+
+```bash
+python entropy_zeta_simulation.py
+python eeg_gamma_coherence.py
+python bayesian_convergence_plot.py
